@@ -1,4 +1,8 @@
-# TDRNet: Transformer-Based Dual-Branch Restoration Network for Geometry Based Point Cloud Compression Artifacts (ICME 2022 Oral)
+# TDRNet-PyTorch (ICME-2022)
+
+IEEE ICME 2022 Oral: [TDRNet: Transformer-Based Dual-Branch Restoration Network for Geometry Based Point Cloud Compression Artifacts](https://ieeexplore.ieee.org/abstract/document/9859853)
+
+
 
 ## <a name="Citing TDRNet"></a>Citing  TDRNet
 
