@@ -9,6 +9,11 @@ With the development of 3D point cloud applications, compression plays an import
 
 
 
+## Code and Results
+Please download from [here](https://pan.baidu.com/s/1qUB0nkjZEbqvPs5h-cgNzg]) [code: 7sj8]
+
+
+
 ## <a name="Citing TDRNet"></a>Citing  TDRNet
 
 If you use TDRNet in your research, please use the following BibTeX entry.
